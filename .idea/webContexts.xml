@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/forum2.html" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/function/sum_video.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/function/text.jsp" value="file://$PROJECT_DIR$/src/main/webapp/function" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/main/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/main" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/main/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/main" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/main/register.jsp" value="file://$PROJECT_DIR$/src/main/webapp/main" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/publish.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
